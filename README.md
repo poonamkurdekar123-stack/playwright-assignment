@@ -9,8 +9,8 @@
 
 ## Project Structure
 tests/
-  api.spec.js
-  ui.spec.js
+├── api.spec.js
+└── ui.spec.js
 
 ## How to Run
 npm install
@@ -18,3 +18,6 @@ npx playwright test
 
 ## View Test Report
 npx playwright show-report
+
+## Author
+Poonam Kurdekar
